@@ -438,11 +438,6 @@ Implement the same interface:
 
 This project is created for educational purposes as part of CS 175 Final Project.
 
----
-
-## Author
-
-**Justin Pham**
 
 ---
 
