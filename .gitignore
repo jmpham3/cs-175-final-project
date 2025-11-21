@@ -20,12 +20,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual environments
-venv/
-env/
-ENV/
-.venv
-
 # Model files (large binaries)
 snake_rl/models/*.pt
 snake_rl/models/*.pth
