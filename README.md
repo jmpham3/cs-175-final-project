@@ -2,8 +2,6 @@
 
 A complete reinforcement learning pipeline for training agents to play the game Snake using **DQN** and **PPO** algorithms with three custom innovations.
 
-**Owner:** Justin Pham  
-**Version:** 1.0  
 **Tech Stack:** Python 3, PyTorch, NumPy, Pygame, Matplotlib
 
 ---
